@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Card from "./Card";
 import Doing from "./Imagens/Doing.jpg";
-import Itsme from "./Imagens/itsme.jpeg";
+import Itsme from "./Imagens/Itsme.jpeg";
 import Formacao from "./Imagens/Formacao.jpg";
 
 const cardsData = [
